@@ -27,16 +27,17 @@ const data = [
     // date: '2015-06-28',
    
   },
-  // {
-  //   title: 'Cat Detector',
-  //   subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-  //   image: '/images/projects/catdetector.jpg',
-  //   date: '2015-05-15',
-  //   desc:
-  //     'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-  //     + 'Over 60,000 cats were classified before server bills made the project too expensive '
-  //     + 'to continue hosting.',
-  // },
+  {
+    title: 'Unsplash social',
+    // subtitle: '',
+    link:'https://github.com/MUZAMMAL-ops/unsplash-social',
+    image: 'https://images.unsplash.com/photo-1688220019316-3e22587dd158?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dW5zcGxhc2glMjBsb2dvfGVufDB8fDB8fHww',
+    // date: '2015-05-15',
+    // desc:
+    //   'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
+    //   + 'Over 60,000 cats were classified before server bills made the project too expensive '
+    //   + 'to continue hosting.',
+  },
 ];
 
 export default data;
