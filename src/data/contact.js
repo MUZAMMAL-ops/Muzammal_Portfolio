@@ -22,11 +22,11 @@ const data = [
   },
  
   
-  {
-    link: 'riazmuzammal350@gmail.com',
-    label: 'Email',
-    icon: faEnvelope,
-  },
+  // {
+  //   link: 'riazmuzammal350@gmail.com',
+  //   label: 'Email',
+  //   icon: faEnvelope,
+  // },
 ];
 
 export default data;

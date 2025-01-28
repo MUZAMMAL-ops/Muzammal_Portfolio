@@ -89,7 +89,7 @@ const EmailLink = ({ loopMessage }) => {
       {/* <a href={validateText(message) ? `mailto:riazmuzammal350@gmail.com` : ''}> */}
         {/* <span>{message}</span>
         <span>@mldangelo.com</span> */}
-        <span>Phone no: 0316-6992131</span>
+        <span>Phone no: 0340-6404033</span>
       
     </div>
   );
